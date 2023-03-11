@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patfranciso Patrick Francis Omogbeme
-- 👀 I’m interested in Javascript, PHP, Python, Elixir and other Functional Programming Languages
+- 👀 I have more than a decade of experience in Javascript and PHP
 - 📫 How to reach me Twitter @patfranciso
 
 <!---
